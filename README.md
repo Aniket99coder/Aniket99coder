@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniket99coder
+- 👋 Hi, I’m @Aniket99coder [ Aniket ]
 - 👀 I’m interested in Machine Learning , Reinforcement Learning, Optimization, Neural Networks, Deep Learning , Predictive modelling, Time series and Statistical analysis
 - 🌱 I’m currently learning Azure AML 
 - 💞️ I’m looking to collaborate on interesting ideas and projects on these topics in the areas of healthcare, energy utilization, inventory assessment, revenue projections, and supporting other such key decision areas.
