@@ -6,7 +6,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou)
 
+<p float="left">
+  
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/AeKTRsWwSzqQbZtU1oP6dQ"><img width="200px" height="200px" src="https://images.credly.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"></a></blockquote>
+
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/AeKTRsWwSzqQbZtU1oP6dQ"><img width="200px" height="200px" src="https://images.credly.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"></a></blockquote>
+  
+</p>
 
 <!---
 Aniket99coder/Aniket99coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
